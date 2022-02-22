@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentCLI", "FluentCLI\FluentCLI.csproj", "{8D7BC4A1-4D76-488E-B837-160BA12EACBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentCLI.Example", "FluentCLI.Example\FluentCLI.Example.csproj", "{E4CA91C7-CEC9-415A-A6EF-2FAF2CA1EFCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Items", "Items", "{AF268A1E-A265-41CE-BA02-971D87399616}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D7BC4A1-4D76-488E-B837-160BA12EACBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7BC4A1-4D76-488E-B837-160BA12EACBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7BC4A1-4D76-488E-B837-160BA12EACBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7BC4A1-4D76-488E-B837-160BA12EACBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4CA91C7-CEC9-415A-A6EF-2FAF2CA1EFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4CA91C7-CEC9-415A-A6EF-2FAF2CA1EFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4CA91C7-CEC9-415A-A6EF-2FAF2CA1EFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4CA91C7-CEC9-415A-A6EF-2FAF2CA1EFCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
